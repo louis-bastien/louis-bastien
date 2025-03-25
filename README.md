@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Louis Bastien
 
-I'm a founder-turned-engineer with a strong background in infrastructure, server management, and backend development. After running a hosting company (Obambu) serving 2,000+ clients, I’ve shifted my focus to DevOps and backend engineering — combining years of real-world infrastructure experience with modern tooling.
+I'm a **founder-turned-engineer** with a strong background in **infrastructure**, **server management**, and **backend development**. After running a hosting company (Obambu) serving 2,000+ clients, I’ve shifted my focus to **DevOps** and **backend engineering** — combining years of real-world infrastructure experience with modern tooling.
 
 ## 🧰 Tech Toolbox
 
