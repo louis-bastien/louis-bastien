@@ -1,5 +1,3 @@
-<!-- Replace "lulubas" with your GitHub username in repo links if needed -->
-
 ### 👋 Hi, I'm Louis Bastien
 
 I'm a founder-turned-engineer with a strong background in infrastructure, server management, and backend development. After running a hosting company (Obambu) serving 2,000+ clients, I’ve shifted my focus to DevOps and backend engineering — combining years of real-world infrastructure experience with modern tooling.
@@ -10,7 +8,7 @@ I'm a founder-turned-engineer with a strong background in infrastructure, server
 
 I’m currently a student at **42**, a rigorous peer-to-peer software engineering program. Projects range from low-level C to full-stack and DevOps challenges.
 
-[lbastien's 42 stats](https://badge.mediaplus.ma/colorfulwaves/lbastien?1337Badge=off&UM6P=off)
+[![lbastien's 42 stats](https://badge.mediaplus.ma/colorfulwaves/lbastien?1337Badge=off&UM6P=off)]
 
 ---
 
@@ -21,10 +19,10 @@ I’m currently a student at **42**, a rigorous peer-to-peer software engineerin
 
 A **multiplayer Pong web app** with:
 - **Full-stack**: Django (backend) + JavaScript/HTML/CSS (front-end)  
-- **Docker**: Containerized services for dev and prod  
-- **AWS deployment**: EC2 hosting, S3 for storage (Vault secrets)  
-- **Monitoring**: Basic Prometheus/Grafana setup  
-- Handled user authentication, real-time gameplay, and front-end design tweaks  
+- **Docker**: Containerized services with dedicated environment for dev and prod. 
+- **AWS deployment**: EC2 hosting, S3 for storage (Vault secrets). Automatic deployment via GithubActions.
+- **Monitoring**: Prometheus/Grafana setup with Alerting rules
+- Contributed to both backend and frontend code: implemented user authentication, integrated real-time gameplay logic, and added a language-switch feature using Python i18n libraries
 
 ---
 
