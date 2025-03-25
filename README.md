@@ -2,7 +2,6 @@
 
 I'm a founder-turned-engineer with a strong background in infrastructure, server management, and backend development. After running a hosting company (Obambu) serving 2,000+ clients, I’ve shifted my focus to DevOps and backend engineering — combining years of real-world infrastructure experience with modern tooling.
 
----
 
 ## 🏫 42 School Progress
 
@@ -10,7 +9,6 @@ I’m currently a student at **42**, a rigorous peer-to-peer software engineerin
 
 [![lbastien's 42 stats](https://badge.mediaplus.ma/colorfulwaves/lbastien?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
----
 
 ## 🚀 Projects
 
@@ -105,7 +103,5 @@ These projects showcase my **C/C++** skills and low-level understanding of Unix 
 
 - **LinkedIn**: [linkedin.com/in/louisbastien](https://www.linkedin.com/in/louisbastien)  
 - **Email**: louisbas@hotmail.fr
-
----
 
 <!-- End of README -->
