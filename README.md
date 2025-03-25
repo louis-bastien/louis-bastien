@@ -53,6 +53,8 @@ Multi-container **Docker Compose** project simulating a production-like local ho
 
 These projects showcase my **C/C++** skills and low-level understanding of Unix systems.
 
+---
+
 ## 🛠 Tech Stack
 
 <p align="left">
