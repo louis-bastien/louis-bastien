@@ -2,9 +2,10 @@
 
 I'm a **founder-turned-software engineer** with over 10 years of experience in infrastructure, server management, and web hosting. After running a hosting company (Obambu) serving 2,000+ clients, I transitioned into hands-on engineering—building backend systems, automating workflows, and scaling production environments.
 
-I recently completed an intensive program at **42 School**, where I tackled projects ranging from low-level system programming in C to full-stack web applications and cloud-focused infrastructure challenges. I've worked with **Python**, **Django**, **JavaScript**, and **Docker**, and I’m expanding my skills with tools like **Terraform**, **Kubernetes**, and **CI/CD pipelines**.
+I recently completed an intensive program at **42 School**, where I tackled projects ranging from system-level C programming to full-stack web apps and cloud infrastructure. I build with **Python**, **Django**, **JavaScript**, and **Docker**, and I'm expanding into **Terraform**, **Kubernetes**, and **CI/CD pipelines**.
 
-I enjoy solving problems across the stack—whether it’s designing backend APIs, building real-time features, or deploying scalable infrastructure—with a strong focus on clean architecture and maintainability.
+I enjoy working across the stack—whether developing APIs, deploying services, or improving architecture—with a focus on clean, scalable solutions.
+
 
 ## 🧰 Tech Toolbox
 
