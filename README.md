@@ -49,7 +49,7 @@ Multi-container **Docker Compose** project simulating a production-like local ho
 ### Minishell & IRC
 
 [![Minishell](https://img.shields.io/badge/GitHub-Minishell-blue?logo=github)](https://github.com/louis-bastien/minishell)
-[![IRC](https://img.shields.io/badge/GitHub-IRC-blue?logo=github)](https://github.com/louis-bastien/ft_irc)
+[![IRC](https://img.shields.io/badge/GitHub-IRC-blue?logo=github)](https://github.com/louis-bastien/IRC)
 
 - **Minishell**: A tiny Unix shell in C, managing signals, redirections, pipes, and built-in commands  
 - **IRC**: A socket-based IRC server in C++, handling concurrency (epoll), RFC compliance, and network protocols  
