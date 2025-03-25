@@ -8,8 +8,7 @@ I'm a founder-turned-engineer with a strong background in infrastructure, server
 
 I’m currently a student at **42**, a rigorous peer-to-peer software engineering program. Projects range from low-level C to full-stack and DevOps challenges.
 
-[![lbastien's 42 stats](https://badge.mediaplus.ma/colorfulwaves/lbastien?1337Badge=off&UM6P=off)]
-
+[![lbastien's 42 stats](https://badge.mediaplus.ma/colorfulwaves/lbastien?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 ---
 
 ## 🚀 Projects
@@ -22,7 +21,7 @@ A **multiplayer Pong web app** with:
 - **Docker**: Containerized services with dedicated environment for dev and prod. 
 - **AWS deployment**: EC2 hosting, S3 for storage (Vault secrets). Automatic deployment via GithubActions.
 - **Monitoring**: Prometheus/Grafana setup with Alerting rules
-- Contributed to both backend and frontend code: implemented user authentication, integrated real-time gameplay logic, and added a language-switch feature using Python i18n libraries
+- Contributed to backend and frontend development: implemented language-switch functionality using Python i18n libraries and made improvements to the front-end interface and styling.
 
 ---
 
@@ -47,6 +46,10 @@ Multi-container **Docker Compose** project:
 ---
 
 ### Minishell & IRC (42 C Projects)
+
+[![Minishell](https://img.shields.io/badge/GitHub-Minishell-blue?logo=github)](https://github.com/louis-bastien/minishell)
+[![IRC](https://img.shields.io/badge/GitHub-IRC-blue?logo=github)](https://github.com/louis-bastien/ft_irc)
+
 - **Minishell**: A tiny Unix shell in C, managing signals, redirections, pipes, and built-in commands  
 - **IRC**: A socket-based IRC server in C++, handling concurrency (epoll), RFC compliance, and network protocols  
 
@@ -88,17 +91,19 @@ These projects showcase my **C/C++** skills and low-level understanding of Unix 
 
 ## 🌱 Current Focus
 
-- **Infrastructure as Code**: Learning Terraform for cloud deployments  
-- **Container Orchestration**: Exploring Kubernetes + Helm for production scaling  
-- **Secrets Management**: Integrating HashiCorp Vault with containerized services  
-- **Backend Improvements**: Building robust APIs (Django/Flask) and exploring microservices patterns  
+- **Infrastructure as Code**: Learning Terraform to provision cloud infrastructure in a repeatable, scalable way  
+- **Container Orchestration**: Exploring Kubernetes and Helm for production-grade service deployment and scaling  
+- **Secrets Management**: Moving from entrypoint-based Vault injection to using the **Vault Agent Sidecar Injector** for more secure and maintainable secret delivery  
+- **Tooling Improvements**: Actively extending `cPsentry` with:
+  - Safer `iptables` interactions (manual IP unblocking + better control)
+  - Unifying monitoring for both **KVM hypervisors** and **cPanel servers** into a single app
 
 ---
 
 ## 📫 Get in Touch
 
 - **LinkedIn**: [linkedin.com/in/louisbastien](https://www.linkedin.com/in/louisbastien)  
-- **Website**: [Obambu](https://obambu.com)
+- **Email**: louisbas@hotmail.fr
 
 ---
 
