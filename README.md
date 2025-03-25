@@ -4,8 +4,6 @@ I'm a **founder-turned-software engineer** with over 10 years of experience in i
 
 I recently completed an intensive full-time program at **42 School**, where I worked on projects ranging from low-level C to full-stack web apps and DevOps challenges. Today, I’m building secure, scalable applications using **Python**, **Docker**, and **AWS**, and deepening my expertise in **Terraform**, **Kubernetes**, and **CI/CD pipelines**.
 
-Whether it’s deploying a production-ready infrastructure or building backend APIs, I enjoy solving technical problems across the stack with a mix of pragmatic engineering and product awareness.
-
 ## 🧰 Tech Toolbox
 
 #### 🖥️ Languages
