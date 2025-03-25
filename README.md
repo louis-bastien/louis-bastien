@@ -1,42 +1,30 @@
 ### 👋 Hi, I'm Louis Bastien
 
-I'm a founder-turned-engineer with a background in infrastructure, backend development, and DevOps. After running a hosting company serving 2,000+ clients, I transitioned into hands-on engineering through 42 School, focusing on building secure, scalable systems.
+I'm a founder-turned-engineer with a strong background in infrastructure, server management, and backend development. After running a hosting company (Obambu) serving 2,000+ clients, I’ve shifted my focus to DevOps and backend engineering — combining years of real-world infrastructure experience with modern tooling.
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 What I’m working on
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-333.svg?&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-</p>
+- **Transcendence** — A multiplayer web app (Django + Docker), deployed on AWS EC2 with Prometheus + Grafana monitoring and Vault for secrets management  
+- **cPsentry** — A custom server monitoring tool for cPanel and KVM-based infrastructure (Python, Flask, Bash)  
+- **Inception** — Multi-container infrastructure built with Docker Compose (WordPress, NGINX, Redis, MariaDB, etc.)
 
 ---
 
-### 🎓 Education
+### 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/42 School-000000?style=flat&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESADE-003865?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Warwick-541E75?style=flat&logoColor=white" />
-</p>
-
----
-
-### 📌 Highlight Projects
-
-- [**Transcendence**](https://github.com/your-repo/transcendence) – Real-time multiplayer game built with Django, Dockerized and deployed on AWS with Prometheus/Grafana monitoring  
-- [**cPsentry**](https://github.com/your-repo/cpsentry) – Custom server monitoring and security tool for cPanel and KVM infra (Python, Flask, Bash)  
-- [**Inception**](https://github.com/your-repo/inception) – Multi-container infrastructure with Docker Compose (WordPress, Redis, Adminer, FTP, MailHog)
+**Languages:** Python · C · C++ · Bash · JavaScript  
+**Frameworks:** Django · Flask  
+**DevOps:** Docker · Linux · AWS (EC2, S3) · GitHub Actions · Prometheus · Grafana  
+**Currently learning:** Terraform · Kubernetes · Vault/K8s integration
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/louisbastien) • [Website](https://obambu.com)
+### 🌱 Current focus
+
+I'm currently deepening my skills in infrastructure-as-code, cloud-native architecture, and scalable backend systems — with hands-on projects involving CI/CD, Terraform, and Kubernetes.
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/louisbastien) • [obambu.com](https://obambu.com)
