@@ -95,7 +95,7 @@ These projects showcase my **C/C++** skills and low-level understanding of Unix 
 - **Infrastructure as Code**: Learning Terraform to provision cloud infrastructure in a repeatable, scalable way  
 - **Container Orchestration**: Exploring Kubernetes and Helm for production-grade service deployment and scaling  
 - **Secrets Management**: Moving from entrypoint-based Vault injection to using the **Vault Agent Sidecar Injector** for more secure and maintainable secret delivery  
-- **Tooling Improvements**: Actively extending `cPsentry` with:
+- **Tooling Improvements**: Actively extending [cPsentry](https://github.com/louis-bastien/cPsentry) with:
   - Safer `iptables` interactions (manual IP unblocking + better control)
   - Unifying monitoring for both **KVM hypervisors** and **cPanel servers** into a single app
 
