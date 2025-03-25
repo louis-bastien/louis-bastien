@@ -15,7 +15,7 @@ I’m currently a student at **42**, a rigorous peer-to-peer software engineerin
 ## 🚀 Projects
 
 ### Transcendence 
-[![Repo](https://img.shields.io/badge/GitHub-Transcendence-blue?logo=github)](https://github.com/louis-bastien/transcendence)
+[![Repo](https://img.shields.io/badge/GitHub-Transcendence-blue?logo=github)](https://github.com/louis-bastien/ft_transcendence-showcase)
 
 A **multiplayer Pong web app** with:
 - **Full-stack**: Django (backend) + JavaScript/HTML/CSS (front-end)  
@@ -27,7 +27,7 @@ A **multiplayer Pong web app** with:
 ---
 
 ### cPsentry 
-[![Repo](https://img.shields.io/badge/GitHub-cPsentry-blue?logo=github)](https://github.com/louis-bastien/cpsentry)
+[![Repo](https://img.shields.io/badge/GitHub-cPsentry-blue?logo=github)](https://github.com/louis-bastien/cPsentry)
 
 A **custom server monitoring/security tool** for cPanel and KVM-based infra:
 - **Python** + **Flask** + some **Bash**  
