@@ -39,10 +39,10 @@ A **custom server monitoring/security tool** for cPanel and KVM-based infra:
 ### Inception 
 [![Repo](https://img.shields.io/badge/GitHub-Inception-blue?logo=github)](https://github.com/louis-bastien/inception)
 
-Multi-container **Docker Compose** project:
-- Hosts WordPress (PHP-FPM), Redis caching, MariaDB, Adminer, FTP, MailHog  
-- Demonstrates container orchestration, networking, and volumes  
-- Focus on local dev environment simulation  
+Multi-container **Docker Compose** project simulating a production-like local hosting environment:
+- Hosts **WordPress (PHP-FPM)**, **Redis** caching, **MariaDB**, Adminer, FTP, **MailHog**, and a static site built with **HTML/Tailwind CSS**  
+- Demonstrates container orchestration, network isolation, volume persistence, and SSL configuration  
+- Focused on modular service design and local development workflows
 
 ---
 
