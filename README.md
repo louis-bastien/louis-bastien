@@ -46,7 +46,7 @@ Multi-container **Docker Compose** project:
 
 ---
 
-### Minishell & IRC (42 C Projects)
+### Minishell & IRC
 
 [![Minishell](https://img.shields.io/badge/GitHub-Minishell-blue?logo=github)](https://github.com/louis-bastien/minishell)
 [![IRC](https://img.shields.io/badge/GitHub-IRC-blue?logo=github)](https://github.com/louis-bastien/ft_irc)
