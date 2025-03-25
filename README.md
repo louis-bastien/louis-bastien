@@ -2,26 +2,22 @@
 
 ### 👋 Hi, I'm Louis Bastien
 
-I'm a founder-turned-engineer with a passion for infrastructure, backend development, and occasionally front-end work. After running a web hosting company (Obambu) serving 2,000+ clients, I've shifted focus to DevOps and software engineering—combining real-world operations experience with modern coding practices.
+I'm a founder-turned-engineer with a strong background in infrastructure, server management, and backend development. After running a hosting company (Obambu) serving 2,000+ clients, I’ve shifted my focus to DevOps and backend engineering — combining years of real-world infrastructure experience with modern tooling.
 
 ---
 
 ## 🏫 42 School Progress
 
-<!-- Example 42 badge using a popular service. You need your personal token or ID. 
-     Here's a placeholder. Replace the URL with your actual 42 badge link. 
-     For reference: https://github.com/JaeSeoKim/badge42 or other 42 badge services -->
-
-[![42 Profile Card](https://badge42.vercel.app/api/v2/CLUSTER_ID/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
-
 I’m currently a student at **42**, a rigorous peer-to-peer software engineering program. Projects range from low-level C to full-stack and DevOps challenges.
+
+[![lbastien's 42 stats](https://badge.mediaplus.ma/colorfulwaves/lbastien?1337Badge=off&UM6P=off)]
 
 ---
 
 ## 🚀 Projects
 
 ### Transcendence 
-[![Repo](https://img.shields.io/badge/GitHub-Transcendence-blue?logo=github)](https://github.com/lulubas/transcendence)
+[![Repo](https://img.shields.io/badge/GitHub-Transcendence-blue?logo=github)](https://github.com/louis-bastien/transcendence)
 
 A **multiplayer Pong web app** with:
 - **Full-stack**: Django (backend) + JavaScript/HTML/CSS (front-end)  
@@ -33,7 +29,7 @@ A **multiplayer Pong web app** with:
 ---
 
 ### cPsentry 
-[![Repo](https://img.shields.io/badge/GitHub-cPsentry-blue?logo=github)](https://github.com/lulubas/cpsentry)
+[![Repo](https://img.shields.io/badge/GitHub-cPsentry-blue?logo=github)](https://github.com/louis-bastien/cpsentry)
 
 A **custom server monitoring/security tool** for cPanel and KVM-based infra:
 - **Python** + **Flask** + some **Bash**  
@@ -43,7 +39,7 @@ A **custom server monitoring/security tool** for cPanel and KVM-based infra:
 ---
 
 ### Inception 
-[![Repo](https://img.shields.io/badge/GitHub-Inception-blue?logo=github)](https://github.com/lulubas/inception)
+[![Repo](https://img.shields.io/badge/GitHub-Inception-blue?logo=github)](https://github.com/louis-bastien/inception)
 
 Multi-container **Docker Compose** project:
 - Hosts WordPress (PHP-FPM), Redis caching, MariaDB, Adminer, FTP, MailHog  
