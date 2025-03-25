@@ -2,7 +2,6 @@
 
 I'm a founder-turned-engineer with a strong background in infrastructure, server management, and backend development. After running a hosting company (Obambu) serving 2,000+ clients, I’ve shifted my focus to DevOps and backend engineering — combining years of real-world infrastructure experience with modern tooling.
 
-
 ## 🏫 42 School Progress
 
 I’m currently a student at **42**, a rigorous peer-to-peer software engineering program. Projects range from low-level C to full-stack and DevOps challenges.
@@ -54,8 +53,6 @@ Multi-container **Docker Compose** project simulating a production-like local ho
 
 These projects showcase my **C/C++** skills and low-level understanding of Unix systems.
 
----
-
 ## 🛠 Tech Stack
 
 <p align="left">
@@ -86,8 +83,6 @@ These projects showcase my **C/C++** skills and low-level understanding of Unix 
   <img src="https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white" />
 </p>
 
----
-
 ## 🌱 Current Focus
 
 - **Infrastructure as Code**: Learning Terraform to provision cloud infrastructure in a repeatable, scalable way  
@@ -96,8 +91,6 @@ These projects showcase my **C/C++** skills and low-level understanding of Unix 
 - **Tooling Improvements**: Actively extending `cPsentry` with:
   - Safer `iptables` interactions (manual IP unblocking + better control)
   - Unifying monitoring for both **KVM hypervisors** and **cPanel servers** into a single app
-
----
 
 ## 📫 Get in Touch
 
