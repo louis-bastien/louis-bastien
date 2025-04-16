@@ -39,10 +39,6 @@ I'm currently:
 
 ---
 
-## 🏫 42 School Progress
-
-I’m currently a student at **42**, a rigorous peer-to-peer software engineering program. Projects range from low-level C to full-stack and DevOps challenges.
-
 ## 🚀 Projects
 
 ### 🏓 Transcendence — Multiplayer Pong Game  
