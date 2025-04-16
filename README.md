@@ -52,12 +52,12 @@ I’m currently a student at **42**, a rigorous peer-to-peer software engineerin
 [![Repo](https://img.shields.io/badge/GitHub-Transcendence-blue?logo=github)](https://github.com/louis-bastien/ft_transcendence-showcase)
 
 A **multiplayer Pong web app** with:
-- **Full-stack**: Django (backend) + JavaScript/HTML/CSS (front-end)  
-- **Docker**: Containerized services with dedicated environment for dev and prod. 
-- **AWS deployment**: EC2 hosting, S3 for storage (Vault secrets). Automatic deployment via GithubActions.
-- **Monitoring**: Prometheus/Grafana setup with Alerting rules
-- Contributed to backend and frontend development: implemented language-switch functionality using Python i18n libraries and made improvements to the front-end interface and styling.
-
+- **Full-stack**: Django (backend) + JavaScript/HTML/CSS (frontend)
+- **Docker**: Containerized services with dedicated environments for dev and prod
+- **AWS deployment**: EC2 hosting, S3 for storage (Vault secrets), automatic deployment via GitHub Actions
+- **Monitoring**: Prometheus/Grafana setup with alerting rules
+- Developed both **local (offline)** and **remote (online)** multiplayer game logic, using WebSockets for real-time sync
+- Contributed to backend and frontend: implemented language-switch functionality using Python i18n and improved interface design and UX
 ---
 
 ### cPsentry 
