@@ -56,7 +56,7 @@ A **multiplayer Pong web app** with:
 - **Docker**: Containerized services with dedicated environments for dev and prod
 - **AWS deployment**: EC2 hosting, S3 for storage (Vault secrets), automatic deployment via GitHub Actions
 - **Monitoring**: Prometheus/Grafana setup with alerting rules
-- Developed both **local (offline)** and **remote (online)** multiplayer game logic, using WebSockets for real-time sync
+- Developed both **local (offline)** and **remote (online)** multiplayer game logic, using **WebSockets** for real-time sync
 - Contributed to backend and frontend: implemented language-switch functionality using Python i18n and improved interface design and UX
 ---
 
