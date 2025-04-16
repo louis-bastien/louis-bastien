@@ -48,6 +48,18 @@ I’m currently a student at **42**, a rigorous peer-to-peer software engineerin
 
 ## 🚀 Projects
 
+## 🏓 Transcendence — Multiplayer Pong Game
+
+🎮 **Tech Stack**: Django · JavaScript · Docker · AWS · WebSockets · Prometheus · Vault
+
+A full-stack multiplayer Pong game with real-time sync and offline/online modes. Built with Django and vanilla JS, deployed on AWS with GitHub Actions and monitored using Prometheus + Grafana.
+
+- 🔧 Dockerized stack for both dev and prod environments  
+- 🔐 Vault-managed secrets & WAF (ModSecurity + OWASP CRS)  
+- 📊 Live monitoring dashboards with Prometheus & Grafana  
+- 🌍 Includes local (offline) and remote (online) multiplayer game logic  
+- 🌐 [pong42.com](https://pong42.com) | 🔒 Private repo – available on request
+
 ### Transcendence 
 [![Repo](https://img.shields.io/badge/GitHub-Transcendence-blue?logo=github)](https://github.com/louis-bastien/ft_transcendence-showcase)
 
