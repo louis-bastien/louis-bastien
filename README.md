@@ -45,8 +45,6 @@ I’m currently a student at **42**, a rigorous peer-to-peer software engineerin
 
 ## 🚀 Projects
 
----
-
 ### 🏓 Transcendence — Multiplayer Pong Game  
 [![Repo](https://img.shields.io/badge/GitHub-Transcendence-blue?logo=github)](https://github.com/louis-bastien/ft_transcendence-showcase)
 
