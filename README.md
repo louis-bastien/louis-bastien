@@ -47,8 +47,8 @@ I'm currently:
 Multiplayer Pong game built with Django & JavaScript, featuring both offline and online gameplay.  
 - 🌐 Real-time sync via WebSockets  
 - 🐳 Dockerized stack for dev/prod  
-- ⚙️ CI/CD on AWS (EC2, S3, GitHub Actions)  
-- 🔐 Secrets via Vault, monitored with Prometheus + Grafana  
+- ⚙️ CI/CD on AWS (EC2, S3, GitHub Actions)
+- 🔐 Secrets via Vault, WAF with ModSecurity, monitored with Prometheus + Grafana  
 - 🌍 Contributed across backend and frontend (i18n, UI, game logic)
 
 ---
