@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Louis Bastien
 
-I'm a **founder-turned-software engineer** with over 10 years of experience in infrastructure, server management, and web hosting. After running a hosting company (Obambu) serving 2,000+ clients, I transitioned into hands-on engineering—building backend systems, automating workflows, and scaling production environments.
+I'm a **founder-turned-software engineer** with over 10 years of experience in infrastructure, server management, and web hosting. After running Obambu, a hosting company serving 2,000+ clients, I transitioned into hands-on engineering—building backend systems, web apps, and automation tools.
 
-I am completing an intensive program at **42 School**, where I tackle projects ranging from system-level C programming to full-stack web apps and cloud infrastructure. I build with **Python**, **Django**, **JavaScript**, and **Docker**, and I'm expanding into **Terraform**, **Kubernetes**, and **CI/CD pipelines**.
+At **42 School**, I’ve completed projects ranging from low-level C/C++ system programming to full-stack web applications using **Python**, **Django**, and **JavaScript**. I’ve developed REST APIs, real-time features, and scalable backend logic—deploying services with **Docker**, **CI/CD pipelines**, and AWS.
 
-I enjoy working across the stack—whether developing APIs, deploying services, or improving architecture—with a focus on clean, scalable solutions.
-
+I'm currently:
+- Deepening my full-stack skills with **Node.js** and **TypeScript**
+- Adding **Redis Pub/Sub** and **Celery** into personal tools like `cPsentry`
+- Learning **Terraform** and **Kubernetes** for production-ready infrastructure
 
 ## 🧰 Tech Toolbox
 
