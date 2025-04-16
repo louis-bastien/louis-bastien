@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Louis Bastien
 
-I'm a **founder-turned-software engineer** with over 10 years of experience in infrastructure, server management, and web hosting. After running Obambu, a hosting company serving 2,000+ clients, I transitioned into hands-on engineering—building backend systems, web apps, and automation tools.
+I'm a **founder-turned-software engineer** with over 10 years of experience in infrastructure, server management, and web hosting. After running Obambu, a hosting company serving 2,000+ clients, I transitioned into hands-on engineering building backend systems, web apps, and automation tools.
 
 At **42 School**, I’ve completed projects ranging from low-level C/C++ system programming to full-stack web applications using **Python**, **Django**, and **JavaScript**. I’ve developed REST APIs, real-time features, and scalable backend logic—deploying services with **Docker**, **CI/CD pipelines**, and AWS.
 
