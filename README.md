@@ -43,79 +43,63 @@ I'm currently:
 
 I’m currently a student at **42**, a rigorous peer-to-peer software engineering program. Projects range from low-level C to full-stack and DevOps challenges.
 
-[![lbastien's 42 stats](https://badge.mediaplus.ma/colorfulwaves/lbastien?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-
 ## 🚀 Projects
 
-## 🏓 Transcendence — Multiplayer Pong Game
+---
 
-🎮 **Tech Stack**: Django · JavaScript · Docker · AWS · WebSockets · Prometheus · Vault
-
-A full-stack multiplayer Pong game with real-time sync and offline/online modes. Built with Django and vanilla JS, deployed on AWS with GitHub Actions and monitored using Prometheus + Grafana.
-
-- 🔧 Dockerized stack for both dev and prod environments  
-- 🔐 Vault-managed secrets & WAF (ModSecurity + OWASP CRS)  
-- 📊 Live monitoring dashboards with Prometheus & Grafana  
-- 🌍 Includes local (offline) and remote (online) multiplayer game logic  
-- 🌐 [pong42.com](https://pong42.com) | 🔒 Private repo – available on request
-
-### Transcendence 
+### 🏓 Transcendence — Multiplayer Pong Game  
 [![Repo](https://img.shields.io/badge/GitHub-Transcendence-blue?logo=github)](https://github.com/louis-bastien/ft_transcendence-showcase)
 
-A **multiplayer Pong web app** with:
-- **Full-stack**: Django (backend) + JavaScript/HTML/CSS (frontend)
-- **Docker**: Containerized services with dedicated environments for dev and prod
-- **AWS deployment**: EC2 hosting, S3 for storage (Vault secrets), automatic deployment via GitHub Actions
-- **Monitoring**: Prometheus/Grafana setup with alerting rules
-- Developed both **local (offline)** and **remote (online)** multiplayer game logic, using **WebSockets** for real-time sync
-- Contributed to backend and frontend: implemented language-switch functionality using Python i18n and improved interface design and UX
+Multiplayer Pong game built with Django & JavaScript, featuring both offline and online gameplay.  
+- 🌐 Real-time sync via WebSockets  
+- 🐳 Dockerized stack for dev/prod  
+- ⚙️ CI/CD on AWS (EC2, S3, GitHub Actions)  
+- 🔐 Secrets via Vault, monitored with Prometheus + Grafana  
+- 🌍 Contributed across backend and frontend (i18n, UI, game logic)
+
 ---
 
-### cPsentry 
+### 🛡️ cPsentry — Server Monitoring Tool  
 [![Repo](https://img.shields.io/badge/GitHub-cPsentry-blue?logo=github)](https://github.com/louis-bastien/cPsentry)
 
-A **custom server monitoring/security tool** for cPanel and KVM-based infra:
-- **Python** + **Flask** + some **Bash**  
-- Tracks mail queues, DB status, Apache health, filesystem usage  
-- Telegram alerts and dynamic IP blocking with iptables  
+Custom tool to monitor & secure cPanel and KVM infrastructure.  
+- 🔍 Tracks mail queues, Apache, DB, filesystem health  
+- 📡 Telegram alerts & IP blocking via iptables  
+- ⚙️ Flask API backend + Bash integrations  
+- 🧩 Unified architecture coming soon (KVM + cPanel)
 
 ---
 
-### Inception 
+### 🏗️ Inception — Local Hosting Environment  
 [![Repo](https://img.shields.io/badge/GitHub-Inception-blue?logo=github)](https://github.com/louis-bastien/inception)
 
-Multi-container **Docker Compose** project simulating a production-like local hosting environment:
-- Hosts **WordPress (PHP-FPM)**, **Redis** caching, **MariaDB**, Adminer, FTP, **MailHog**, and a static site built with **HTML/Tailwind CSS**  
-- Demonstrates container orchestration, network isolation, volume persistence, and SSL configuration  
-- Focused on modular service design and local development workflows
+Multi-container Docker Compose project simulating a local production setup.  
+- 🖥️ WordPress (PHP-FPM), Redis, MariaDB, Adminer, MailHog  
+- 🎨 Static site with Tailwind CSS  
+- 🔐 Network isolation, SSL, persistent volumes
 
 ---
 
-### Minishell & IRC
-
+### 🧪 Minishell & IRC — C/C++ System Projects  
 [![Minishell](https://img.shields.io/badge/GitHub-Minishell-blue?logo=github)](https://github.com/louis-bastien/minishell)
 [![IRC](https://img.shields.io/badge/GitHub-IRC-blue?logo=github)](https://github.com/louis-bastien/IRC)
 
-- **Minishell**: A tiny Unix shell in C, managing signals, redirections, pipes, and built-in commands  
-- **IRC**: A socket-based IRC server in C++, handling concurrency (epoll), RFC compliance, and network protocols  
-
-These projects showcase my **C/C++** skills and low-level understanding of Unix systems.
+Two Unix-based system programming projects in C and C++:  
+- 🐚 **Minishell**: Custom shell with redirections, signals, piping  
+- 💬 **IRC**: RFC-compliant server using `select()` for multiplexed socket handling  
 
 ---
 
 ## 🌱 Current Focus
 
-- **Infrastructure as Code**: Learning Terraform to provision cloud infrastructure in a repeatable, scalable way  
-- **Container Orchestration**: Exploring Kubernetes and Helm for production-grade service deployment and scaling  
-- **Secrets Management**: Moving from entrypoint-based Vault injection to using the **Vault Agent Sidecar Injector** for more secure and maintainable secret delivery  
-- **Tooling Improvements**: Actively extending [cPsentry](https://github.com/louis-bastien/cPsentry) with:
-  - Safer `iptables` interactions (manual IP unblocking + better control)
-  - Unifying monitoring for both **KVM hypervisors** and **cPanel servers** into a single app
+- **Full-Stack Expansion**: Building new features with **Node.js**, **TypeScript**, and **Django REST APIs**
+- **Backend Architecture**: Exploring **Redis Pub/Sub** and **Celery** for decoupling logic and managing async background tasks
+- **Testing for Robustness**: Practicing automated testing with **pytest**, **Postman**, and best practices for maintainable API design
+- **cPsentry v2**: Enhancing the tool with unified monitoring logic for both KVM and cPanel, plus safer IP control and modular alerting
+
+---
 
 ## 📫 Get in Touch
 
 - **LinkedIn**: [linkedin.com/in/louisbastien](https://www.linkedin.com/in/louisbastien)  
 - **Email**: louisbas@hotmail.fr
-
-<!-- End of README -->
