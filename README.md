@@ -94,6 +94,7 @@ Two Unix-based system programming projects in C and C++:
 - **Backend Architecture**: Exploring **Redis Pub/Sub** and **Celery** for decoupling logic and managing async background tasks
 - **Testing for Robustness**: Practicing automated testing with **pytest**, **Postman**, and best practices for maintainable API design
 - **cPsentry v2**: Enhancing the tool with unified monitoring logic for both KVM and cPanel, plus safer IP control and modular alerting
+- **DevOps Tools**: Currently building a production pipeline with **Terraform** and **Kubernetes**.
 
 ---
 
